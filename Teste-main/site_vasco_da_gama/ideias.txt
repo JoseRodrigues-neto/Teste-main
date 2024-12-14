@@ -2,4 +2,3 @@
 - sala de escudos 
 - falando a historia do time 
 - pagina principal
-- teste git
