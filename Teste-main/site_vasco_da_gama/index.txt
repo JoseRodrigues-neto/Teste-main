@@ -1,0 +1,16 @@
+<html>                             o inicio de um sonho <spoiler> deu tudo errado </spoiler>
+<style>
+body {
+color: red;
+}
+</Style>
+<head>
+<title>CRVG</title>
+</head>
+<body>
+<h1> meu vascão </h1>
+
+
+</body>
+
+</html>
